@@ -1,2 +1,2 @@
-# Demo
+# DemoGame
 just a demo
